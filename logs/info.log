@@ -1,0 +1,22 @@
+Info: CapabilityPattern:Inicial: 83 mini seconds publishing element
+Info: CapabilityPattern:Inicial: 32 mini seconds publishing process specific layout data
+Info: Task:elicitar: 9 mini seconds publishing element
+Info: TaskDescriptor:elicitar: 4 mini seconds publishing element
+Info: Role:analista: 15 mini seconds publishing element
+Info: RoleDescriptor:analista: 3 mini seconds publishing element
+Info: Artifact:presupuesto: 8 mini seconds publishing element
+Info: WorkProductDescriptor:presupuesto: 2 mini seconds publishing element
+Info: Artifact:listado_de_requisitos: 6 mini seconds publishing element
+Info: WorkProductDescriptor:listado_de_requisitos: 3 mini seconds publishing element
+Info: Task:especificacion: 5 mini seconds publishing element
+Info: TaskDescriptor:especificacion: 3 mini seconds publishing element
+Info: Artifact:especificacin_de_requisitos: 5 mini seconds publishing element
+Info: WorkProductDescriptor:especificacin_de_requisitos: 3 mini seconds publishing element
+Info: DeliveryProcess:Proceso: 65 mini seconds publishing element
+Info: DeliveryProcess:Proceso: 77 mini seconds publishing process specific layout data
+Info: Activity:Inicial: 54 mini seconds publishing element
+Info: Activity:elaboración: 61 mini seconds publishing element
+Info: Milestone:Documento Especificación: 7 mini seconds publishing element
+Info: Template:template-lista-requisitos: 8 mini seconds publishing element
+Info: CustomCategory:elementos_de_proceso: 5 mini seconds publishing element
+Info: : Publishing time: 0 minutes 0 seconds
